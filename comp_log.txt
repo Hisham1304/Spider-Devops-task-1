@@ -1,0 +1,163 @@
+==============================
+        COMPUTER LOG
+==============================
+
+Uptime: up 4 hours, 31 minutes
+Disk and memory usage: Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        24G   15G  7.8G  66% / (free -h /)
+Utilization and most expensive processes:     592 root      20   0  419456 148224  63344 S  12.5   9.1   1:48.25 /usr/li+
+Open TCP ports: 
+Current connections: udp        0      0 10.0.2.15:68            10.0.2.2:67             ESTABLISHED
+Processes: USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.7 167900 12344 ?        Ss   09:35   0:01 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    09:35   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   09:35   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   09:35   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   09:35   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   09:35   0:00 [netns]
+root           8  0.0  0.0      0     0 ?        I<   09:35   0:00 [kworker/0:0H-events_highpri]
+root          10  0.0  0.0      0     0 ?        I<   09:35   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        I    09:35   0:00 [rcu_tasks_kthread]
+root          12  0.0  0.0      0     0 ?        I    09:35   0:00 [rcu_tasks_rude_kthread]
+root          13  0.0  0.0      0     0 ?        I    09:35   0:00 [rcu_tasks_trace_kthread]
+root          14  0.0  0.0      0     0 ?        S    09:35   0:00 [ksoftirqd/0]
+root          15  0.0  0.0      0     0 ?        I    09:35   0:04 [rcu_preempt]
+root          16  0.0  0.0      0     0 ?        S    09:35   0:00 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    09:35   0:00 [cpuhp/0]
+root          19  0.0  0.0      0     0 ?        S    09:35   0:00 [cpuhp/1]
+root          20  0.0  0.0      0     0 ?        S    09:35   0:00 [migration/1]
+root          21  0.0  0.0      0     0 ?        S    09:35   0:00 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        S    09:35   0:00 [kdevtmpfs]
+root          27  0.0  0.0      0     0 ?        I<   09:35   0:00 [inet_frag_wq]
+root          28  0.0  0.0      0     0 ?        S    09:35   0:00 [kauditd]
+root          29  0.0  0.0      0     0 ?        S    09:35   0:00 [khungtaskd]
+root          30  0.0  0.0      0     0 ?        S    09:35   0:00 [oom_reaper]
+root          32  0.0  0.0      0     0 ?        I<   09:35   0:00 [writeback]
+root          33  0.0  0.0      0     0 ?        S    09:35   0:00 [kcompactd0]
+root          34  0.0  0.0      0     0 ?        SN   09:35   0:00 [ksmd]
+root          35  0.0  0.0      0     0 ?        SN   09:35   0:00 [khugepaged]
+root          36  0.0  0.0      0     0 ?        I<   09:35   0:00 [kintegrityd]
+root          37  0.0  0.0      0     0 ?        I<   09:35   0:00 [kblockd]
+root          38  0.0  0.0      0     0 ?        I<   09:35   0:00 [blkcg_punt_bio]
+root          39  0.0  0.0      0     0 ?        I<   09:35   0:00 [tpm_dev_wq]
+root          40  0.0  0.0      0     0 ?        I<   09:35   0:00 [edac-poller]
+root          41  0.0  0.0      0     0 ?        I<   09:35   0:00 [devfreq_wq]
+root          43  0.0  0.0      0     0 ?        I<   09:35   0:00 [kworker/0:1H-kblockd]
+root          44  0.0  0.0      0     0 ?        S    09:35   0:00 [kswapd0]
+root          50  0.0  0.0      0     0 ?        I<   09:35   0:00 [kthrotld]
+root          52  0.0  0.0      0     0 ?        I<   09:35   0:00 [acpi_thermal_pm]
+root          53  0.0  0.0      0     0 ?        S    09:35   0:00 [xenbus_probe]
+root          54  0.0  0.0      0     0 ?        I<   09:35   0:00 [mld]
+root          55  0.0  0.0      0     0 ?        I<   09:35   0:00 [ipv6_addrconf]
+root          60  0.0  0.0      0     0 ?        I<   09:35   0:00 [kstrp]
+root          65  0.0  0.0      0     0 ?        I<   09:35   0:00 [zswap-shrink]
+root          66  0.0  0.0      0     0 ?        I<   09:35   0:00 [kworker/u5:0]
+root         127  0.0  0.0      0     0 ?        I<   09:35   0:00 [kworker/1:1H-kblockd]
+root         130  0.0  0.0      0     0 ?        I<   09:35   0:00 [ata_sff]
+root         131  0.0  0.0      0     0 ?        S    09:35   0:00 [scsi_eh_0]
+root         133  0.0  0.0      0     0 ?        I<   09:35   0:00 [cryptd]
+root         135  0.0  0.0      0     0 ?        S    09:35   0:00 [scsi_eh_1]
+root         136  0.0  0.0      0     0 ?        I<   09:35   0:00 [scsi_tmf_0]
+root         137  0.0  0.0      0     0 ?        S    09:35   0:00 [scsi_eh_2]
+root         139  0.0  0.0      0     0 ?        I<   09:35   0:00 [scsi_tmf_1]
+root         140  0.0  0.0      0     0 ?        I<   09:35   0:00 [scsi_tmf_2]
+root         214  0.0  0.0      0     0 ?        S    09:35   0:02 [irq/18-vmwgfx]
+root         216  0.0  0.0      0     0 ?        S    09:35   0:00 [card0-crtc0]
+root         217  0.0  0.0      0     0 ?        S    09:35   0:00 [card0-crtc1]
+root         218  0.0  0.0      0     0 ?        S    09:35   0:00 [card0-crtc2]
+root         219  0.0  0.0      0     0 ?        S    09:35   0:00 [card0-crtc3]
+root         220  0.0  0.0      0     0 ?        S    09:35   0:00 [card0-crtc4]
+root         221  0.0  0.0      0     0 ?        S    09:35   0:00 [card0-crtc5]
+root         222  0.0  0.0      0     0 ?        S    09:35   0:00 [card0-crtc6]
+root         223  0.0  0.0      0     0 ?        S    09:35   0:00 [card0-crtc7]
+root         227  0.0  0.0      0     0 ?        I<   09:35   0:00 [kworker/1:2H-kblockd]
+root         272  0.0  0.0      0     0 ?        S    09:35   0:00 [jbd2/sda1-8]
+root         273  0.0  0.0      0     0 ?        I<   09:35   0:00 [ext4-rsv-conver]
+root         354  0.0  0.4  27068  7232 ?        Ss   09:35   0:00 /lib/systemd/systemd-udevd
+root         383  0.0  0.4   8260  7044 ?        Ss   09:35   0:00 /usr/sbin/haveged --Foreground --verbose=1
+message+     505  0.0  0.3  10484  5748 ?        Ss   09:35   0:02 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+polkitd      507  0.0  0.6 383568  9912 ?        Ssl  09:35   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         508  0.0  0.4  25380  7992 ?        Ss   09:35   0:00 /lib/systemd/systemd-logind
+root         512  0.0  0.0      0     0 ?        I<   09:35   0:00 [rpciod]
+root         513  0.0  0.0      0     0 ?        I<   09:35   0:00 [xprtiod]
+root         515  0.0  0.1   6608  2684 ?        Ss   09:35   0:00 /usr/sbin/cron -f
+root         520  0.0  1.4 332112 23584 ?        Ssl  09:35   0:00 /usr/sbin/NetworkManager --no-daemon
+root         539  0.0  0.7 391116 12296 ?        Ssl  09:35   0:00 /usr/sbin/ModemManager
+root         558  0.0  0.1 358424  2712 ?        Sl   09:35   0:02 /usr/sbin/VBoxService
+root         574  0.0  0.4 382572  7512 ?        SLsl 09:35   0:00 /usr/sbin/lightdm
+root         592  0.6  9.0 419456 148224 tty7    Ssl+ 09:35   1:48 /usr/lib/xorg/Xorg :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root         593  0.0  0.0   5872  1008 tty1     Ss+  09:35   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+rtkit        697  0.0  0.0  88232  1560 ?        SNsl 09:35   0:00 /usr/libexec/rtkit-daemon
+root         763  0.0  0.5 236224  8248 ?        Sl   09:36   0:00 lightdm --session-child 15 26
+lucifer      769  0.0  0.6  19132 10872 ?        Ss   09:36   0:00 /lib/systemd/systemd --user
+lucifer      770  0.0  0.1 103212  3248 ?        S    09:36   0:00 (sd-pam)
+lucifer      785  0.0  2.0 660052 33888 ?        Ssl  09:36   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+lucifer      787  0.0  0.8 313596 13832 ?        SLsl 09:36   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+lucifer      794  0.0  0.3   9692  5460 ?        Ss   09:36   0:03 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+lucifer      796  0.0  1.6 340696 26748 ?        Ssl  09:36   0:00 xfce4-session
+lucifer      858  0.0  0.0  19152   348 ?        S    09:36   0:00 /usr/bin/VBoxClient --clipboard
+lucifer      860  0.0  0.2 217340  4112 ?        Sl   09:36   0:00 /usr/bin/VBoxClient --clipboard
+lucifer      873  0.0  0.0  19152   348 ?        S    09:36   0:00 /usr/bin/VBoxClient --seamless
+lucifer      875  0.0  0.1 217440  2404 ?        Sl   09:36   0:08 /usr/bin/VBoxClient --seamless
+lucifer      881  0.0  0.0  19152   348 ?        S    09:36   0:00 /usr/bin/VBoxClient --draganddrop
+lucifer      883  0.1  0.1 217956  2428 ?        Sl   09:36   0:22 /usr/bin/VBoxClient --draganddrop
+lucifer      896  0.0  0.0   7908   840 ?        Ss   09:36   0:00 /usr/bin/ssh-agent x-session-manager
+lucifer      899  0.0  0.0  19152   352 ?        S    09:36   0:00 /usr/bin/VBoxClient --vmsvga
+lucifer      900  0.0  0.2 217544  3388 ?        Sl   09:36   0:02 /usr/bin/VBoxClient --vmsvga
+lucifer      914  0.0  0.5 384868  9488 ?        Ssl  09:36   0:00 /usr/libexec/at-spi-bus-launcher
+lucifer      921  0.0  0.2   9248  4820 ?        S    09:36   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+lucifer      933  0.0  0.6 238128 11220 ?        Sl   09:36   0:01 /usr/libexec/at-spi2-registryd --use-gnome-session
+lucifer      944  0.0  0.3  81256  5536 ?        SLs  09:36   0:00 /usr/bin/gpg-agent --supervised
+lucifer      946  0.2  6.5 1015124 106572 ?      Sl   09:36   0:42 xfwm4
+lucifer      950  0.0  0.5 311184  9752 ?        Ssl  09:36   0:00 /usr/libexec/gvfsd
+lucifer      956  0.0  0.5 454164  8244 ?        Sl   09:36   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+lucifer      975  0.0  1.7 304796 29364 ?        Sl   09:36   0:02 xfsettingsd
+root         979  0.0  0.5 307680  8836 ?        Ssl  09:36   0:01 /usr/libexec/upowerd
+lucifer      985  0.0  2.9 548368 47688 ?        Sl   09:36   0:02 xfce4-panel
+lucifer      990  0.0  3.7 635552 61204 ?        Sl   09:36   0:02 Thunar --daemon
+lucifer      996  0.0  4.2 635260 69364 ?        Sl   09:36   0:05 xfdesktop
+lucifer      997  0.0  2.8 473316 46052 ?        Sl   09:36   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 27262983 whiskermenu Whisker Menu Show a menu to easily access installed applications
+lucifer     1004  0.2  1.9 277280 32276 ?        Sl   09:36   0:35 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libcpugraph.so 13 27262988 cpugraph CPU Graph Graphical representation of the CPU load
+lucifer     1005  0.0  1.4 413452 24212 ?        Sl   09:36   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libsystray.so 14 27262989 systray Status Tray Plugin Provides status notifier items (application indicators) and legacy systray items
+lucifer     1006  0.2  1.8 431816 30332 ?        Sl   09:36   0:36 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libgenmon.so 15 27262990 genmon Generic Monitor Show output of a command.
+lucifer     1007  0.0  2.7 739644 45036 ?        Sl   09:36   0:09 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 16 27262991 pulseaudio PulseAudio Plugin Adjust the audio volume of the PulseAudio sound system
+lucifer     1008  0.0  2.4 472720 40280 ?        Sl   09:36   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 17 27262992 notification-plugin Notification Plugin Notification plugin for the Xfce panel
+lucifer     1009  0.0  2.6 464700 43024 ?        Sl   09:36   0:02 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 18 27262993 power-manager-plugin Power Manager Plugin Display the battery levels of your devices and control the brightness of your display
+lucifer     1013  0.0  2.3 472736 38412 ?        Sl   09:36   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libactions.so 22 27262994 actions Action Buttons Log out, lock or other system actions
+lucifer     1048  0.0  2.5 463480 42436 ?        Ssl  09:36   0:01 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+lucifer     1088  0.0  1.8 570836 29720 ?        Sl   09:36   0:00 light-locker
+lucifer     1089  0.0  2.8 558800 46796 ?        Sl   09:36   0:00 nm-applet
+lucifer     1090  0.0  0.4 307712  7160 ?        Sl   09:36   0:00 /usr/libexec/geoclue-2.0/demos/agent
+lucifer     1097  0.0  3.1 447712 52148 ?        Sl   09:36   0:00 /usr/bin/python3 /usr/bin/blueman-applet
+lucifer     1098  0.0  0.2  14648  4032 ?        Ssl  09:36   0:01 xcape -e Super_L Control_L Escape
+lucifer     1109  0.0  0.7 923936 12232 ?        Sl   09:36   0:00 xiccd
+lucifer     1117  0.0  0.2 230116  4656 ?        Ssl  09:36   0:00 /usr/libexec/dconf-service
+lucifer     1126  0.0  1.6 265984 26192 ?        Sl   09:36   0:00 xfce4-power-manager
+lucifer     1145  0.0  1.1 259876 19272 ?        Sl   09:36   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+colord      1147  0.0  0.9 316012 14984 ?        Ssl  09:36   0:00 /usr/libexec/colord
+lucifer     1151  0.0  0.8 425196 13368 ?        Ssl  09:36   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+root        1164  0.0  0.9 468452 14696 ?        Ssl  09:36   0:00 /usr/libexec/udisks2/udisksd
+lucifer     1249  0.0  0.4 308080  7816 ?        Ssl  09:36   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+lucifer     1267  0.0  0.5 307188  9080 ?        Ssl  09:36   0:00 /usr/libexec/gvfs-goa-volume-monitor
+lucifer     1281  0.0  0.5 307128  9300 ?        Ssl  09:36   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+lucifer     1294  0.0  0.5 386200  8600 ?        Ssl  09:36   0:00 /usr/libexec/gvfs-afc-volume-monitor
+lucifer     1322  0.0  0.6 385292 10148 ?        Sl   09:36   0:00 /usr/libexec/gvfsd-trash --spawner :1.15 /org/gtk/gvfs/exec_spaw/0
+lucifer     1329  0.0  0.5 233640  8272 ?        Ssl  09:36   0:00 /usr/libexec/gvfsd-metadata
+lucifer     1368  0.0  0.4  48552  7180 ?        Ss   09:36   0:00 /usr/libexec/bluetooth/obexd
+lucifer     1692  0.2  6.7 446328 109828 ?       Sl   09:36   0:40 /usr/bin/qterminal
+lucifer     1695  0.0  0.4  13644  7532 pts/0    Ss   09:36   0:13 /usr/bin/zsh
+lucifer     6345  0.0  0.6 385544 10288 ?        Sl   09:46   0:00 /usr/libexec/gvfsd-computer --spawner :1.15 /org/gtk/gvfs/exec_spaw/1
+root       76740  0.0  0.0      0     0 ?        I    12:40   0:00 [kworker/0:0-events]
+root       76756  0.0  0.8  49332 14152 ?        Ss   12:40   0:00 /lib/systemd/systemd-journald
+root       76906  0.0  0.0      0     0 ?        I    13:27   0:00 [kworker/0:2-events]
+root       81149  0.0  0.0      0     0 ?        I    13:35   0:00 [kworker/1:1-ata_sff]
+root       88226  0.0  0.0      0     0 ?        I    13:51   0:00 [kworker/u4:0-writeback]
+root       90487  0.0  0.0      0     0 ?        I    13:56   0:00 [kworker/1:0-events]
+root       92033  0.0  0.0      0     0 ?        I    14:00   0:00 [kworker/u4:2-ext4-rsv-conversion]
+root       92810  0.0  0.0      0     0 ?        I    14:01   0:00 [kworker/1:2-ata_sff]
+lucifer    94841  0.0  0.4 306936  8040 ?        Sl   14:06   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+root       94882  0.0  0.0      0     0 ?        I    14:06   0:00 [kworker/u4:1-writeback]
+lucifer    94916  0.0  0.2   6932  3268 pts/0    S+   14:06   0:00 /bin/bash ./monitor.sh
+lucifer    94936  200  0.2  11212  4752 pts/0    R+   14:06   0:00 ps aux 
+===============================
+

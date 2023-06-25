@@ -1,0 +1,14 @@
+========================
+      SYSTEM INFO
+========================
+Desktop processor:
+System Kernel:
+Operating system version:
+Desktop memory:
+Serial number:
+System IP:
+-------------------------
+Installed software:
+
+
+=========================
